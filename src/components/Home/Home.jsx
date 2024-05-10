@@ -50,7 +50,7 @@ const Home = () => {
                                 <div>
                                     <img className='pic' src={imgp2} alt="" />
                                     <h3 className='subheading'>Futures and Options</h3><br />
-                                    <p>Do systematic trading to build  wealth over time.​​</p><br /><br />
+                                    <p>Do systematic trading to buildwealth over time.​​</p><br /><br />
                                     <btn className="button">KNOW MORE</btn>
                                 </div>
                             </div>
