@@ -1,0 +1,40 @@
+.Box1{
+    background-color: #06B48B;
+    color: white;
+    display: flex;
+    padding-left: 80px;
+    height:550px;
+    padding-top: 80px;
+    margin-bottom: 0px;
+ }
+ a{
+    display: inline;
+    padding-right: 10px;
+  
+ }
+ .sony{
+    font-size: 10px;
+    
+ }
+ .sony1{
+    padding-left: 15px;
+
+ }
+ .disclamier{
+    background-color: #3b3838;
+    color: white;
+    height: 40px;
+ }
+
+.p1{
+    color: #000;
+}
+
+.get{
+    padding-left: 60px;
+}
+
+.disclaimer{
+    background: #000;
+    color: whitesmoke;
+}

@@ -1,0 +1,130 @@
+:root {
+    --primarycolor: #06b48b;
+    --secondarycolor: hsl(0, 0%, 16%);
+    --whitecolor: hsl(0, 0%, 100%);
+    --blackcolor: hsl(201, 33%, 16%);
+    --textcolor: hsl(240, 4%, 36%);
+    --whitecolorDeam: hsl(0, 0%, 93%);
+    --graytext: rgb(190, 190, 190);
+    --inputcolor: rgb(239, 239, 239);
+    --bodycolor: rgb(240, 240, 246);
+    --cardBG: rgb(225, 225, 235);
+    --cardHover: rgb(225, 225, 225);
+}
+
+.home {
+    height: 450px;
+    padding: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    padding-bottom: 80px;
+    padding-left: 30px;
+    background: #06b48b;
+    position: relative;
+
+    .homeContent {
+        
+        height: max-content;
+        padding: 8rem 1.5rem 3rem;
+        display: flex;
+        align-items: stretch;
+        justify-content: center;
+        margin: auto;
+        color: var(--whitecolor);
+        z-index: 100;
+
+        .textDiv {
+            padding-left: 50px;
+
+            .smallText {
+                font-size: 11px;
+                text-transform: uppercase;
+            }
+
+            .homeTitle {
+                position: relative;
+                font-size: 1rem;
+            }
+        }
+        h6 {
+            padding-top: 60px;
+        }
+        btn {
+            padding: 1.2rem 3.5rem;
+            background: var(--whitecolor);
+            color: var(--blackcolor);
+            border-radius: 0.5rem;
+            cursor: pointer;
+        }
+        btn:hover {
+            background-color: var(--blackcolor);
+            color: var(--whitecolor);
+        }
+    }
+    img {
+        padding-top: 150px;
+        padding-right: 180px;
+        width: 800px;
+        object-fit: cover;
+    }
+}
+.Blank {
+    width: 100%;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    background-color: #06b48b;
+    position: relative;
+}
+.Blank1 {
+    background-color: whitesmoke;
+    height: 400px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    box-shadow: 0px 0px 5px;
+    padding-top: 20px;
+    border-radius: 10px;
+}
+.blank {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    color: #06b48b;
+    width: 100%;
+}
+.blank1 {
+    padding-left: 50px;
+    margin-bottom: 40px;
+    width: 100%;
+    height: 300px;
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+}
+.product {
+    width: 250px;
+    height: 380px;
+    display: inline-flex;
+
+    
+}
+.pic {
+    width: 100px;
+    height: 100px;
+}
+.button {
+    background-color: #06b48b;
+    color: var(--whitecolor);
+    padding: 0.4rem 1.5rem;
+    border-radius: 5px;
+}
+.button:hover{
+    background-color: var(--blackcolor);
+    color: aliceblue;
+}
+.subheading{
+    color: #06b48b;
+}

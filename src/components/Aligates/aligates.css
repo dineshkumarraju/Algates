@@ -1,0 +1,128 @@
+:root {
+    --primarycolor: #06B48B;
+    --secondarycolor: hsl(0, 0%, 16%);
+    --whitecolor: hsl(0, 0%, 100%);
+    --blackcolor: hsl(201, 33%, 16%);
+    --textcolor: hsl(240, 4%, 36%);
+    --whitecolorDeam: hsl(0, 0%, 93%);
+    --graytext: rgb(190, 190, 190);
+    --inputcolor: rgb(239, 239, 239);
+    --bodycolor: rgb(240, 240, 246);
+    --cardBG: rgb(225, 225, 235);
+    --cardHover: rgb(225, 225, 225);
+}
+
+.h1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1500;
+    color: rgb(251, 251, 251);
+    background:  hsl(0, 0%, 16%);
+    padding-top: 20px;
+    
+    font-size: 35px;
+    
+}
+
+.subheading1{
+    color: #06B48B;
+}
+.hi{
+    padding-top: 350px;
+    background-color: hsl(0, 0%, 100%);
+    
+}
+
+.bg {
+    background-color: hsl(0, 0%, 16%);
+    height: 850px;
+    display: flex;
+
+}
+
+.img {
+    height: 400px;
+    width: 400px;
+    margin-left: 30px;
+    margin-right: 25px;
+    margin-top: 150px;
+}
+
+.pic{
+    height: 80px;
+    width: 80px;
+}
+.box{
+    display: flex;
+    gap: 60px;
+    margin-top: 40px;
+}
+.box12{
+   gap: 60px;
+   display: flex;
+}
+.box13{
+    gap: 60px;
+    display: flex;
+ }
+.box1{
+    height: 200px;
+    width: 350px;
+    background-color: var(--whitecolor);
+    display: flex;
+    
+    border-radius: 20px;
+
+}
+.box2{
+    height: 250px;
+    width: 320px;
+    background-color: var(--whitecolor);
+    display: flex;
+    border-radius: 20px;
+}
+.box3{
+    height: 200px;
+    width: 350px;
+    background-color: var(--whitecolor);
+    display: flex;
+    margin-top: 30px;
+    
+    border-radius: 20px;
+
+}
+.box4{
+    height: 250px;
+    width: 320px;
+    background-color: var(--whitecolor);
+    display: flex;
+    border-radius: 20px;
+    margin-top: 50px;
+}
+.box5{
+    height: 200px;
+    width: 350px;
+    background-color: var(--whitecolor);
+    display: flex;
+    border-radius: 20px;
+    
+
+}
+
+.boxINSIDE{
+    display: inline;
+    padding-top: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+

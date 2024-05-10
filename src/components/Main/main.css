@@ -1,0 +1,56 @@
+
+.FAQs{
+  
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+}
+.total{
+    display: flex;
+ padding-right: 100px;
+ padding-top: 50px;
+}
+.container{
+    max-width: 600px;
+    margin: auto;
+}
+
+.accordion-simple > .active {
+    display: block;
+}
+
+.accordion__faq .inactive{
+    display: none;
+}
+
+.accordion__faq > div{
+    background-color: #ffffff;
+    margin-bottom: 20px;
+    padding: .8rem 2.2rem;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 11px;
+}
+.socialnetworks{
+    padding-top: 60px;
+}
+
+.button3{
+    background-color: rgb(34, 196, 66);
+    box-shadow: 0px 5px 5px;
+    padding: 1.2rem 2.9rem;
+    border-radius: 5px;
+}
+.button4{
+    background-color: whitesmoke;
+    box-shadow: 0px 5px 5px;
+    padding: 1.2rem 1.8rem;
+    border-radius: 5px;
+}
+.subheading1{
+    color: #06B48B;
+}
+
+
+
+

@@ -1,0 +1,36 @@
+:root{
+    --primarycolor: #06B48B;
+    --secondarycolor: hsl(0, 0%, 16%);
+    --whitecolor:hsl(0, 0%, 100%);
+    --blackcolor:hsl(201, 33%, 16%);
+    --textcolor:hsl(240, 4%, 36%);
+    --whitecolorDeam:hsl(0, 0%, 93%);
+    --graytext:rgb(190, 190, 190);
+    --inputcolor:rgb(239, 239, 239);
+    --bodycolor: rgb(240, 240, 246);
+    --cardBG: rgb(225, 225, 235);
+    --cardHover:rgb(225, 225, 225);
+}
+ 
+
+.class{
+    display: flex;
+    background: var(--primarycolor);
+    color: var(--whitecolor);
+    padding-left: 120px;
+}
+.class2{
+    padding-top: 80px;
+}
+.trilok{
+    padding-top: 100px;
+
+}
+.button2{
+    background: var(--whitecolor);
+    color: var(--textcolor);
+    padding: 1.2rem 2.5rem;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
