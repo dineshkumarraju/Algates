@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Algates/static/css/main.c6a539d5.css",
+    "main.js": "/Algates/static/js/main.e1b89241.js",
+    "static/media/imgc1.webp": "/Algates/static/media/imgc1.9273d520cf12e4d225d3.webp",
+    "static/media/img1.webp": "/Algates/static/media/img1.80f2305623adf0c7331b.webp",
+    "static/media/imgA.webp": "/Algates/static/media/imgA.bc7f569da3f98714cfff.webp",
+    "static/media/imgp2.webp": "/Algates/static/media/imgp2.ec524abe16503bd6c889.webp",
+    "static/media/imgt2.webp": "/Algates/static/media/imgt2.9b025e4e7581f3646794.webp",
+    "static/media/imgA4.webp": "/Algates/static/media/imgA4.0d9e30251848c6a31ad0.webp",
+    "static/media/imgp3.webp": "/Algates/static/media/imgp3.3619c24363d5d3ace20a.webp",
+    "static/media/imgA1.webp": "/Algates/static/media/imgA1.aaf00b3903bd24a58908.webp",
+    "static/media/imgA2.webp": "/Algates/static/media/imgA2.2c78866df80a24b5aa7b.webp",
+    "static/media/imgA5.webp": "/Algates/static/media/imgA5.a3cce99b93423f0c2b07.webp",
+    "static/media/imgt1.webp": "/Algates/static/media/imgt1.b594f15c93c4d73356a8.webp",
+    "static/media/imgp1.webp": "/Algates/static/media/imgp1.97912aaf999ffe844f22.webp",
+    "static/media/imgp4.webp": "/Algates/static/media/imgp4.97912aaf999ffe844f22.webp",
+    "static/media/imgA3.webp": "/Algates/static/media/imgA3.c173a59fb6f5abe7ae31.webp",
+    "static/media/logo.webp": "/Algates/static/media/logo.a61512c22c54d7cb1b71.webp",
+    "index.html": "/Algates/index.html",
+    "main.c6a539d5.css.map": "/Algates/static/css/main.c6a539d5.css.map",
+    "main.e1b89241.js.map": "/Algates/static/js/main.e1b89241.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6a539d5.css",
+    "static/js/main.e1b89241.js"
+  ]
+}
